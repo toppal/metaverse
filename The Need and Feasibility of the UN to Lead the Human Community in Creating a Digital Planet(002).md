@@ -71,7 +71,9 @@ On 24 January 2019,, temperatures in Adelaide, Australia reached 46.6°C, breaki
 
  
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml32804\wps21.png) 
+![][avatar]
+
+[avatar]:https://github.com/toppal/pic/blob/main/%E5%9B%BE%E7%89%871.png
 
 *Fig.1 National Weather Service High Temperature Forecast for June 1, 2021*
 
@@ -89,7 +91,9 @@ Likewise this year, just as this letter was issued, A terrible heatwave is hitti
 
  
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml32804\wps22.png) 
+![][avatar]
+
+[avatar]:https://github.com/toppal/pic/blob/main/%E5%9B%BE%E7%89%872.png 
 
 *Fig.2, Heatwave and wildfires in South America photographed from space, January 2023*
 
@@ -99,7 +103,9 @@ Today, human society's knowledge of global climate change is, shall we say, much
 
 
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml32804\wps23.png) 
+![][avatar]
+
+[avatar]:https://github.com/toppal/pic/blob/main/%E5%9B%BE%E7%89%873.png 
 
 *Fig. 3 Image of thawing snow-capped mountains at high Arctic altitude in Norway taken in 2015*
 
